@@ -1,4 +1,4 @@
-# C-Leap-Year-Checker
+# C Leap Year Checker
 
 Given the following rules, write a program to read a year (4 digit integer) and tell whether the given year is/was a leap year. There were no leap years before 1752.
 •If the year divides by 400 then it is a leap year.
